@@ -10,11 +10,13 @@ namespace HW1
     {
         static void Main(string[] args)
         {
+            var c = 10 + 15;
+
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine();
-            Console.WriteLine(" Hello Jane!");
-            Console.ReadLine();
+            Console.WriteLine(" Hello world! {0}", c );
+            Console.ReadKey();
         }
     }
 }
