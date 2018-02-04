@@ -61,64 +61,64 @@ namespace MinMax
 
         private void ShowIntValue()
         {
-            int intMin = -2147483648;
-            int intMax = 2147483647;
+            int intMin = int.MinValue;
+            int intMax = int.MaxValue;
             valueMin.Text = intMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = intMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowLongValue()
         {
-            long longMin = -9223372036854775808L;
-            long longMax = 9223372036854775807L;
+            long longMin = long.MinValue;
+            long longMax = long.MaxValue;
             valueMin.Text = longMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = longMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowFloatValue()
         {
-            float floatMin = -1.4e-45F;
-            float floatMax = 3.4e+38F;
+            float floatMin = float.MinValue;
+            float floatMax = float.MaxValue;
             valueMin.Text = floatMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = floatMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowDoubleValue()
         {
-            var doubleMin = -4.9e-324;
-            var doubleMax = 1.7e+308;
+            var doubleMin = double.MinValue;
+            var doubleMax = double.MaxValue;
             valueMin.Text = doubleMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = doubleMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowDecimalValue()
         {
-            decimal decimalMin = -1.0e-28M;
-            decimal decimalMax = 7.9e+28M;
+            decimal decimalMin = decimal.MinValue;
+            decimal decimalMax = decimal.MaxValue;
             valueMin.Text = decimalMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = decimalMax.ToString(CultureInfo.InvariantCulture);
         }
         
         private void ShowStringValue()
         {
-            sbyte sbyteMin = -128;
-            sbyte sbyteMax = 127;
+            sbyte sbyteMin = sbyte.MinValue;
+            sbyte sbyteMax = sbyte.MaxValue;
             valueMin.Text = sbyteMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = sbyteMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowCharValue()
         {
-            byte byteMin = 0;
-            byte byteMax = 255;
+            byte byteMin = byte.MinValue;
+            byte byteMax = byte.MaxValue;
             valueMin.Text = byteMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = byteMax.ToString(CultureInfo.InvariantCulture);
         }
 
         private void ShowBoolValue()
         {
-            short shortMin = -32768;
-            short shortMax = 32767;
+            short shortMin = short.MinValue;
+            short shortMax = short.MaxValue;
             valueMin.Text = shortMin.ToString(CultureInfo.InvariantCulture);
             valueMax.Text = shortMax.ToString(CultureInfo.InvariantCulture);
         }

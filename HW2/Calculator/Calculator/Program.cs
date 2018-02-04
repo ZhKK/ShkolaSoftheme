@@ -10,35 +10,46 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            for (; ; )
-            {
                 Console.WriteLine("Press Esc to exit");
-                do
+            do
+            {
+                try
                 {
-                    Console.WriteLine("Введите первое число:");
+                    Console.WriteLine("Enter 1st number:");
                     double a = double.Parse(Console.ReadLine());
 
-                    Console.WriteLine("Введите оператор:");
+                    Console.WriteLine("Enter an operator:");
                     char oprt = char.Parse(Console.ReadLine());
 
-                    Console.WriteLine("Введите второе число:");
+                    Console.WriteLine("Enter 2nd number:");
                     double b = double.Parse(Console.ReadLine());
                     Console.WriteLine("_______________");
-                    Console.WriteLine("Результат:");
+                    Console.WriteLine("Result:");
 
+                    double rez = 0;
                     if (oprt == '+')
-                        Console.WriteLine(a + " + " + b + " = " + "{0:##.##}", (a + b));
+                    {
+                        rez = a + b;
+                        Console.WriteLine(a + " + " + b + " = " + "{0:##.##}", rez);
+                    }
+                
                     if (oprt == '-')
                         Console.WriteLine(a + " - " + b + " = " + "{0:##.##}", (a - b));
                     if (oprt == '*')
                         Console.WriteLine(a + " * " + b + " = " + "{0:##.##}", (a * b));
                     if (oprt == '/')
-                        Console.WriteLine(a + " / " + b + " = " + "{0:##.##}", (a / b));
+                    {
+                        rez = a / b;
+                        Console.WriteLine(a + " / " + b + " = " + "{0:##.##}", rez);
+                    }
                     Console.WriteLine();
                 }
-                while (Console.ReadKey().Key != ConsoleKey.Escape); break;
-
+                    catch (DivideByZeroException) {
+                        Console.WriteLine("Сan not be divided by zero!");
+                    }
             }
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
+
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.csprojResolveAssemblyReference.cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MainWindow.baml
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MainWindow.g.cs
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\App.g.cs
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax_MarkupCompile.cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.g.resources
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.Properties.Resources.resources
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.csproj.GenerateResource.Cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\zhkon\Documents\CSharpHW\1\HW2\MinMax\MinMax\obj\Debug\MinMax.pdb
