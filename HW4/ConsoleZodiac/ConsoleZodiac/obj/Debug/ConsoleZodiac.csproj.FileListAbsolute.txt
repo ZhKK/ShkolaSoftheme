@@ -1,0 +1,7 @@
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe.config
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.pdb
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.csprojResolveAssemblyReference.cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.csproj.CoreCompileInputs.cache
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.exe
+C:\Users\zhkon\Documents\CSharpHW\1\HW4\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.pdb
