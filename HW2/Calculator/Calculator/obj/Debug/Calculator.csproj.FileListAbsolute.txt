@@ -1,7 +1,0 @@
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\zhkon\Documents\CSharpHW\1\HW2\Calculator\Calculator\obj\Debug\Calculator.pdb
