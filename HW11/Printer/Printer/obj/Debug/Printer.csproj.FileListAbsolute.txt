@@ -1,7 +1,0 @@
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\obj\Debug\Printer.csprojResolveAssemblyReference.cache
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\bin\Debug\Printer.exe.config
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\bin\Debug\Printer.exe
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\bin\Debug\Printer.pdb
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\obj\Debug\Printer.exe
-C:\Users\zhkon\Documents\CSharpHW\1\HW11\Printer\Printer\obj\Debug\Printer.pdb

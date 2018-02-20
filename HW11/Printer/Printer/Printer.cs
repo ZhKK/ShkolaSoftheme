@@ -9,7 +9,6 @@ namespace Printer
     class Printer
     {
         public string Argument { get; set; }
-
         public Printer(string argum)
         {
             Argument = argum;

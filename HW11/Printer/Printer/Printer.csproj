@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PhotoPrinter.cs" />
     <Compile Include="ColourPrinter.cs" />
     <Compile Include="Printer.cs" />
     <Compile Include="Program.cs" />

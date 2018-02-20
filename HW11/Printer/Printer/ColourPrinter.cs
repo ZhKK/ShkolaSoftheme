@@ -8,19 +8,19 @@ namespace Printer
 {
     class ColourPrinter : Printer
     {
-        public byte Color { get; set; }
-        public Printer(string argum, byte color)
+        public ConsoleColor Color { get; set; }
+        public ColourPrinter(string argum, ConsoleColor color)
+            : base (argum)
         {
-            Argument = argum;
             Color = color;
         }
         public override void Print()
         {
+            var message = string.Format("Colour Printer's argument is: ");
+            Console.Write(message);
             Console.ForegroundColor = Color;
-            Console.WriteLineColor(Argument);
-            Console.ReadKey();
-            base.Print;
+            Console.WriteLine(Argument);
+            Console.ResetColor();
         }
-
     }
 }
